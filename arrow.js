@@ -9,3 +9,10 @@ arrays.push("kishore4");
 arrays.push("kishore3");
 arrays.push("kishore2");
 console.log(arrays)
+
+const arrays1=[];
+arrays.push("kishore");
+arrays.push("kishore4");
+arrays.push("kishore3");
+arrays.push("kishore2");
+console.log(arrays1)
