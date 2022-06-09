@@ -1,4 +1,4 @@
 const getFirstName=()=>{
-    return "kishore";
+    return "kishore sah";
 }
 console.log(getFirstName());
